@@ -1,0 +1,38 @@
+Region=en-US
+Windows_TTS_Language=409
+Windows_TTS_Name=Microsoft David
+First_station_enter_part_1={0} Zug nach {1},  <break time="0.3s"/>
+First_station_enter_part_2=über {0} <break time="0.5s"/>
+First_station_enter_part_3=kommt auf Gleis {0} Bahnsteig {1} an. <break time="0.3s"/>
+First_station_enter_part_4=Bitte halten Sie sich von der Bahnsteigkante entfernt. <break time="0.3s"/>
+Station_enter_part_1={0} Zug von {1}, <break time="0.3s"/> nach {2}, <break time="0.1s"/>
+Station_enter_part_2=über {0} <break time="0.5s"/>
+Station_enter_part_3=kommt auf Gleis {0} Bahnsteig {1} an. <break time="0.3s"/>
+Last_station_enter_part_1={0} Zug von {1}, <break time="0.3s"/>
+Last_station_enter_part_2=kommt auf Gleis {0} Bahnsteig {1} an. <break time="0.3s"/>
+Last_station_enter_part_3=Dieser Zug endet hier. <break time="0.3s"/>
+Last_station_enter_part_4=Bitte halten Sie sich von der Bahnsteigkante entfernt.
+Delay_Last_station_enter_part_2=kommt auf Gleis {0} Bahnsteig {1} an. <break time="0.3s"/>
+Delay_Last_station_enter_part_3=Dieser Zug endet hier. <break time="0.3s"/>
+Delay_Last_station_enter_part_4=Wir entschuldigen uns für die Verspätung.
+Delay_station_enter_part_2=über {0} <break time="0.5s"/>
+Delay_station_enter_part_4=kommt auf Gleis {0} Bahnsteig {1} an. <break time="0.3s"/>
+Delay_station_enter_part_5=Bitte halten Sie sich von der Bahnsteigkante entfernt. <break time="0.3s"/>
+Station_exit_part_1={0} Zug nach {1}, <break time="0.3s"/>
+Station_exit_part_2=über {0} <break time="0.5s"/>
+Station_exit_part_4=Bitte halten Sie sich von der Bahnsteigkante entfernt. <break time="0.3s"/>
+Local_train=Lokal
+Regional_train=Regional
+Fast_train=Schnell
+International_train=international
+First_station_enter_part_5=Geplante Abfahrtszeit {0} .
+Station_enter_part_4=Bitte halten Sie sich von der Bahnsteigkante entfernt.
+Delay_station_enter_part_6=Wir entschuldigen uns für die Verspätung.
+Station_exit_part_5=Wir wünschen Ihnen eine angenehme Reise.
+Train_seat_reservation_part_1=Für diesen Zug ist eine Sitzplatzreservierung erforderlich. <break time="0.2s"/>
+Train_seat_reservation_part_2=Wagen mit der Nummer {0} befinden sich im vorderen Teil des Zuges, Wagen mit der Nummer {1} befinden sich im mittleren Teil des Zuges, Wagen mit der Nummer {2} befinden sich im hinteren Teil des Zuges. <break time="0.3s"/>
+Delay_Last_station_enter_part_1=Der verspätete {0} Zug von {1}, <break time="0.3s"/>
+Delay_station_enter_part_1=Der verspätete {0} Zug von {1}, <break time="0.3s"/> nach {2}, <break time="0.1s"/>
+Station_exit_part_3=fährt vom Gleis {0} Bahnsteig {1} ab. <break time="0.3s"/>
+Delay_station_enter_part_3=
+Train_seat_reservation_part_3=

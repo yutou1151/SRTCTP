@@ -1,0 +1,4 @@
+map_border_reached=Hai raggiunto il bordo della mappa. Inoltre, il bot guiderà il treno.
+train_derailed=Il treno {0} ha deragliato e sarà rimosso.
+train_missrouted_remove=Il treno {0} verrà rimosso perché è stato inviato nella direzione sbagliata. Il treno si trova in una stazione non prevista dall'orario.
+train_missrouted=L'itinerario costruito dal segnale {0} manderebbe il treno {1} nella direzione sbagliata. L'itinerario verrà cancellato!

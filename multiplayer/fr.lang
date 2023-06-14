@@ -1,0 +1,4 @@
+map_border_reached=Vous avez atteint le bord de la carte. L'IA va prendre le contrôle du train.
+train_derailed=Le train {0} a déraillé ! Il va être supprimé.
+train_missrouted=L'itinéraire depuis le signal {0} conduirait le train {1} dans la mauvaise direction. Cet itinéraire va donc être détruit !
+train_missrouted_remove=Le train {0} va être supprimé car il a été envoyé dans la mauvaise direction. Il se trouve dans une gare qui n'est pas dans son horaire.

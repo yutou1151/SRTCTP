@@ -1,0 +1,428 @@
+#type of train(cargo/passenger),place(station,place(station)
+Your_task_to_drive_from_to=Your task will be to lead the {0} train from {1} station to {2} station.
+
+#train number, place(station)
+Report_2_station={0} report to {1} station.
+
+#place(station), number of train
+Station_2_train_radio_check={0} to {1} radio check.
+
+#number of train, place(station)
+Report_2_station2=Train {0} report to {1} station.
+
+#place(station), number of train
+Report_2_train={0} report to {1} train.
+
+#place(station), number of train
+Report_2_train_2={0} report to {1}.
+Reporting=Reporting.
+
+#number of train
+Train_dep=Train {0} departure.
+
+#number of train
+Train_rdy_2_dep=Train {0} ready for departure.
+
+#number of train, number
+Further_ride_on_L_no={0} further ride will be on the left track number {1}.
+
+#number
+Entrance_on_subst_on_line_no=The entrance will take place on the substitute signal on track number {0} due to a fault.
+
+#number
+Exit_on_subst_on_line_no=The departure will take place on the substitute signal on track number {0} due to a fault.
+
+#number of train
+To_brake={0} brake.
+
+#number of train
+To_unbrake={0} unbrake.
+
+#number of train
+Brakes_good={0}  brakes are all good.
+
+#number of train
+To_me={0}  to me.
+
+#number of train
+From_me={0}  from me.
+
+#number of train
+Now_stop={0} now stop.
+
+#number of train
+Now_change_cabin={0} now change the cabin.
+Park_brake=Parking brake
+Brake_on=Brake on
+Brake_off=Brake off
+Etcs_confirm=ETCS confirmation
+
+#means giving permission for a train to depart from a neighboring station
+Give_permission=Give permission
+
+#means switching on the devices associated with the neighboring station, making it possible to obtain permission from the dispatcher of the neighboring station to leave a train
+turn_on_block_sys=Apply blocking devices
+
+#means that the train dispatcher has changed his mind and does not want to ask for permission to leave the train anymore
+Turn_off_block_sys=Remove blocking devices
+
+#means resetting the display of the enabling signal on the semaphore and resolving the prepared train path
+Break_route=Break route
+
+#prepares the route for the train and displays the signal on the semaphore for the train
+Setup_route=Setup route
+
+#gives a "green" light on a semaphore for a train
+Lightup_allowance_lights=Set a allowance signal
+Second_switch_button=Secondary point button
+
+#means requesting permission to leave the train from an adjacent station
+Request_for_consent=Request a permission
+
+#means giving permission for a train to depart from a neighboring station
+To_give_consent=Give a permission
+
+#means information for the neighboring station that the train runs on the left track on a double track line (in Poland it normally runs on the right)
+Incorrect_dep=Departure to the left track
+
+#means confirmation for the neighboring station of the train's arrival on the left track on the double track line (in Poland it is normal to drive on the right)
+Incorrect_arrival=Arrive from left track
+
+#revokes permission for a neighboring station to send the train
+Opt_out_from_consent=Cancel permission
+
+#canceling the consent obtained earlier for the train to run (e.g. in a situation where the train will not run, e.g. because it broke down)
+Consent_return=Cancel interlocking
+
+#blocks the possibility of sending several trains within one consent for a line block - a separate consent is required for each train
+Rotation_interlocking=Rotation interlocking
+Departure=Departure
+Arrival=Arrival
+
+#means consenting to the departure of the train from a neighboring station
+Consent=Consent
+
+#means switching on the devices associated with the neighboring station, making it possible to obtain permission from the dispatcher of the neighboring station to leave a train
+Lock_activation=Turn on interlocking
+
+#means a change of direction in which the line block allows the train to depart (from station B to station A, instead of from station A to B)
+Change_direction_of_blockade=Change interlocking direction
+
+#means the confirmation that the train enters the station, thus clearing the line between stations and restoring the line block to its basic state
+Lock_release=Interlocking clearance
+
+#means the change of direction in which the line block allows the train to run in an emergency
+Emergency_change_direction_of_blockade=Emergency change of interlocking direction
+Stop=Stop
+Substitute_signal=Substitute_signal
+
+#preparation of the travel path for the train
+Route=Train route
+
+#preparation of the route for the fistula (maneuver)
+Maneuver_route=Shunting route
+
+#confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set  
+Cancell_running_through_switch=Confirm point failure
+
+#this is a comand to "ignore the the fact that this railway line is occupied"
+Ignore_occupation=Ignore track occupancy
+
+#means the bell informing that the train has passed through the switch contrary to the direction in which it was set
+Point_failure_sig=Point failure signal
+
+#turns off the power supply to the crossover control, etc., in order not to switch anything by mistake
+Turn_off_dev_pwr=Turn off devices power
+
+#means that the train has been set on the trail for a substitute signal (normally the starting block works automatically)
+Emergency_dep_block=Emergency departure block
+
+#means that the train has entered the station on a substitute signal (normally the end block works automatically)
+Emergency_arrival_block=Emergency arrival block
+
+#line blockade power supply device
+Interlock_convert=Interlocking converter
+
+#emergency closing of the automatic passage
+Emergency_close_crossing=Emergency closure of a railway crossing
+
+#emergency opening of the automatic passage
+Emergency_open_crossing=Emergency opening of a railway crossing
+
+#emergency closure of the passage for cars for a longer period of time
+Car_traffic_close=Car traffic closure
+
+#resumption of car traffic through the crossing
+Car_traffic_open=Car traffic opening
+
+#means turning on / off the semaphores informing the driver about the correct operation of the journey
+Turn_crossing_signal=Turn on/off crossing semaphore signal
+Emergency_close_crossing_2=Emergency closure of a railway crossing
+
+#solution of the path set for the train in order to open the passage in an emergency (e.g. during an ambulance passage)
+Route_cancel_4_crossing_open=Route cancellation for railway crossing opening
+
+#allows our station area to be controlled remotely by another station
+Auth_2_ctrl_area=Authorization to control the area
+
+#cancellation of the permission to control our station area remotely by another station
+Cancel_auth_4_area=Cancel authorization to control the area
+
+#emergency cancellation of permission to control our station area remotely by another station - command initialization
+Emerg_cancel_auth_4_area=emergency cancel of authorization to control the area - initialization
+
+#emergency cancellation of permission to control our station area remotely by another station - command confirmation
+Emerg_cancel_auth_4_are_conf=emergency cancel of authorization to control the area - confirmation
+
+#emergency cancellation of permission to control our station area remotely by another station - command canceling
+Cancel_special_command=Canceling a special command
+
+#means putting a warning plate on the desktop, reminding, for example, about the ongoing renovation works on a given track
+insert_sign=Insert sign
+
+#removal of the warning label
+Delete_sign=Delete sign
+
+#preparation of the travel path for the train
+Set_up_train_route=Set up train route
+
+#preparation of the route for the fistula (maneuver)
+Set_up_shunting_route=Set up shunting route
+
+#means the cancellation of a prepared travel route
+Route_cancel=Route cancellation
+
+#Means the immediate cancellation of the prepared journey path for the train - initiation of the command
+Immieddiate_route_cancel=Immediate train route cancellation - initialization
+
+#means the immediate cancellation of the prepared journey path for the train - confirmation of the order
+Immieddiate_route_cancel_confirm=Immediate train route cancellation - confirmation
+
+#shifting the derailment (rolling stock derailing device, secures the passage of other trains against accidental entry) to the + position
+Switch_derail_plus=Switch the derailment to "+" position
+
+#shifting the derailment to position -
+Switch_derail_minus=Switch the derailment to "-" position
+
+#blocking the derailment in its current position
+Derail_pos_lock=Derailment position lock
+
+#disabling derailment blockade
+Cancel_derailment_lock=Cancel derailment position lock
+
+#closure of a track section - exclusion from traffic (it is not possible to specify the route for a train through a given track)
+Close_track_2=Close track
+
+#opening of a track section after temporary closure
+Open_track=Open track
+
+#ignores the information about the occupancy of the switch, which would normally prevent it from being moved
+Ignore_point_occupy=Ignore point occupancy
+
+#Moves the switch to the plus position, ignoring the information that it is occupied by a train
+Switch_pos_plus_ignore_occupy=Switch to “+” position and ignore occupancy
+
+#It moves the switch to the minus position, ignoring the information that it is occupied by a train
+Switch_pos_minus_ignore_occupy=Switch to “-” position and ignore occupancy
+
+#confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set
+Confirm__point_failure_init=Confirm point failure - initialization
+
+#confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set
+Confirm__point_failure_conf=Confirm point failure - confirmation
+Cancel_special_command2=Cancelling a special command
+
+#locks the derailleur in the plus position
+Derailment_pos_lock_plus=Derailment lock on “+” position
+
+#locks the derailleur in the minus position
+Derailment_pos_lock_minus=Derailment lock on “-” position
+
+#disabling derailment blockade
+Cancel_derailment_pos_lock=Cancel derailment position lock
+Switch_point_to_plus_pos=Switch point to “+” position
+Switch_point_to_minus_pos=Switch point to “-” position
+
+#locks the translation of the turnout in its end position
+Point_lock_in_end_pos=Point lock in end position
+
+#cancels the interlock of the switch of the switch in its end position
+Cancel_point_lock_end_pos=Cancel point lock in end position
+
+#axle counter reset in case of its failure - track occupancy device - initialization
+Reset_axle_counter_init=Reset axle counter - initialization
+
+#axle counter reset in case of its failure - track occupancy device - confirmation
+Reset_axle_counter_conf=Reset axle counter - confirmation
+Point_lock_plus=Point lock in “+” position
+Point_lock_minus=Point lock in “-” position
+Cancel_point_lock=Cancel point lock
+Close_track=Close track
+Open_track_2=Open track
+
+#blocks the possibility of displaying the signal on all semaphores in the station
+Lock_all_semaphores=Lock all semaphores
+
+#unlocks the ability to display the signal on all semaphores in the station
+Unlock_all_semaphores=Unlock all semaphores
+
+#blocks the possibility of relocating all switches in the station
+Lock_all_points=Lock all points
+
+#unlocks the ability to relocate all switches in the station
+Unlock_all_points=Unlock all points
+
+#cancellation of the substitute signal display
+Subs_signal_cancel=Substitute signal cancelation
+
+#refreshing the status of all devices on the desktop
+Refresh_all_obj=Refresh all objects
+
+#means changing the direction of a line block in order to obtain permission to run a train
+Choose_interlock_dir=Choose interlocking direction
+
+#means consent to change the direction of the linear blockade
+Permission_4_dir_change=Permission for direction change
+
+#means resignation from activating the line block
+Cancel_turn_on_interlock=Cancel turning on interlocking
+
+#releases the set direction of the line lock
+Release_interlock_dir=Release interlocking direction
+
+#prevents the train from leaving the station in the selected direction
+Lock_dep_in_dir=Lock departure in the direction
+
+#enables the train to leave the station in the selected direction
+Unlock_dep_in_dir=Unlock departure in the direction
+
+#emergency change of linear blockade direction - initialization
+Emer_interlock_dir_change_init=Emergency interlocking direction change - initialization
+
+#emergency change of the line blockade direction - confirmation
+Emer_interlock_dir_change_conf=Emergency interlocking direction change - confirmation
+
+#means changing the direction of a line block in order to obtain permission to run a train
+Interlock_dir_change=Interlocking direction change
+
+#oznacza danie zgody na zmianę kierunku działania blokady liniowej
+Per_interlock_dir_change=Permission for interlocking direction change
+
+#releases the set direction of the line lock
+Release_interlck_dir=Release interlocking direction
+
+#resetting the occupancy of several sections of the automatic line block on the route between stations, maintaining the distance between trains going in the same direction - initialization
+Reset_automat_block_signal_init=Reset automatic block signalling sections - initialization
+
+#resetting the occupancy of several sections of the automatic line block on the route between stations, maintaining the distance between trains going in the same direction - confirmation
+Reset_automat_block_signal_conf=Reset automatic block signalling sections - confirmation
+Perm_to_reset_auto_block_init=Permission to reset automatic block signalling sections - initialization
+Perm_to_reset_auto_block_conf=Permission to reset automatic block signalling sections - confirmation
+
+#information about the train leaving for a linear block in the case of running for a substitute signal or a written order - initialization
+Dep_ver_init=Departure verification - initialization
+
+#information about the train leaving for a linear block in the case of running on a substitute signal or a written order - confirmation
+Dep_ver_conf=Departure verification - confirmation
+
+#ustawia trasę przejazdu dla podania sygnału zastępczego - inicjalizacja
+Prep_route_for_subst_sig_init=Prepare route for substitute signal - initialization
+
+#ustawia trasę przejazdu dla podania sygnału zastępczego - potwierdzenie
+Prep_route_for_subst_sig_conf=Prepare route for substitute signal - confirmation
+
+#potwierdzenie wyjazdu pociągu na szlak w kierunku sąsiedniej stacji
+Block_dep_block=Block departure block
+Give_permission_to Give a permission to set up interlocking direction
+Ack_train_arrival=Acknowledgment of train arrival
+Permission_interlcok_dir_change=Give permission to set up interlocking direction - arrival
+Release_interlocking_init=Release interlocking - initialization
+Release_interlocking_conf=Release interlocking - confirmation
+
+#RBC is the Radio Block Center, part of the ETCS European Train Control System for communication between the control room, semaphores and the driver's cab
+Rbc_data_sync=Data refresh from RBC
+Prep_2_takeover_right_2_area=Preparation to takeover rights to area
+Take_over_rights_2_area=Takeover rights to area
+Emergency_take_rights_area=Emergency takeover of rights to area
+Confirm_rcb_launch=Confirmation of RBC launch
+Disconnect_rcb=Disconnection from RBC
+Restart_active_rcb_computer=Restart of active RBC computer
+Stop_sim=Stop_simulation
+Set_sim_speed=Set simulation speed
+Stop_train_traffic=Stop train traffic
+Ressume_train_traffic=Resume train traffic
+
+#Set the ALARM (ALARM is a radio signal that automatically stops all nearby trains radio range)
+Set_alarm=Send an emergency signal to all nearby trains
+
+#Cancel the ALARM (ALARM is a radio signal that automatically stops all nearby trains radio range)
+Cancel_alarm=Cancel the emergency signal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signal_lock=Lock semaphore at STOP signal
+Signal_unlock=Unlock STOP signal
+Signal_sz=Init substitute signal
+Signal_szp=Show substitute signal
+Signal_nsz=Init substitute signal to enter the left track
+Signal_nszp=Show substitute signal to enter the left track
+Signal_sam=Enable automatic control
+Signal_saw=Disable automatic control
+SendOrder_ExecuteOrder=Execute
+OrderReceived=ORDER RECEIVED
+OrderRejected=ORDER REJECTED
+OrderExecuted=ORDER EXECUTED
+ConfirmSpecialOrder=PLEASE CONFIRM THE SPECIAL ORDER
+EbiLabelDropdown_1=Track occupied
+EbiLabelDropdown_2=Track closed
+EbiLabelDropdown_3=One track movement, bidirectional
+EbiLabelDropdown_4=Electric vehicles forbidden
+EbiLabelDropdown_5=Auxiliary vehicle
+EbiLabelDropdown_6=Announcement via phone
+EbiLabelDropdown_7=Orders and registration via phone
+EbiLabelDropdown_8=Notify site manager about departure
+EbiLabelDropdown_9=Attention! Worker on tracks.
+MultiplayerIntroduction_Driver_ExpressTrain=Today you will drive an express train.
+MultiplayerIntroduction_Driver_FastTrain=Today you will drive an express train.
+MultiplayerIntroduction_Driver_WelcomeDriver=Welcome to SimRail multiplayer. Today you will play the role of a train Driver for the first time.
+MultiplayerIntroduction_Driver_AI=Currently the train is under AI control. When you're ready, you can take control by pressing the button at the top of the screen at any time.
+MultiplayerIntroduction_Driver_AFK=If you will be inactive for a long time, the AI will take over the train for you automatically.
+MultiplayerIntroduction_Driver_Remember=Remember that you are cooperating with other players. Please pay attention to traffic lights and speed limits.
+MultiplayerIntroduction_Driver_Comm=To communicate with other players, you can use a radiotelephone as a voice chat (by default, a tilde on the keyboard) and text chat on the left side of the screen.
+MultiplayerIntroduction_Driver_RadioChannel1=In order for other players in the area to receive your message, you must be on the same radio channel. After taking over from AI, the radio channel will automatically be set to the correct one on the given line.
+MultiplayerIntroduction_Driver_RadioChannel2=When passing the indicator with the letter R and a number, change the radio channel accordingly - the number indicates the valid channel. You can also activate the automatic change of radio channels in the settings.
+MultiplayerIntroduction_Driver_PlayersList=To check if the station you are approaching is operated by a human or AI, open the player list (tab key by default). You can also use it to report players who deliberately spoil the game for others, as well as those who are inactive.
+MultiplayerIntroduction_Dispatcher_Welcome=Welcome to SimRail multiplayer. Today you will play as a Dispatcher for the first time.
+MultiplayerIntroduction_Dispatcher_Systems=There are 3 basic systems at your disposal - control panel, timetable and communication.
+MultiplayerIntroduction_Dispatcher_Comm=You can communicate with neighboring Dispatcher by phone. If that signal box is operated by AI, you will see the relevant information on your phone.
+MultiplayerIntroduction_Dispatcher_AI=In this situation, communication will take place using ready text messages selected from the list. It is different when that station is operated by another player.
+MultiplayerIntroduction_Dispatcher_Human=In this situation, you have a choice, you can use ready messages, write freely in the chat window with a specific post, or choose a voice call.
+MultiplayerIntroduction_Dispatcher_Voice=If you want to use the voice call, pick up the telephone handset and press the button to select the station you want to call.
+MultiplayerIntroduction_Dispatcher_IncommingCall=If someone calls you, all you have to do is pick up the phone.
+MultiplayerIntroduction_Dispatcher_Radio=The second type of communication is by use of radio. To contact train Drivers near you, use the chat on the left or voice communication (tilde on the keyboard by default).
+MultiplayerIntroduction_Dispatcher_RadioChannel=Remember that only players in the area who have their radio set to the same channel as your signal box will hear you.
+MultiplayerIntroduction_Dispatcher_Playerslist=To see players in your area, open the list (tab key by default). You can also use it to report players who deliberately ruin the game for others, as well as those who are inactive.
+MultiplayerIntroduction_Dispatcher_Timetable1=To check which trains are approaching your station, you have a timetable monitor at your disposal.
+MultiplayerIntroduction_Dispatcher_Timetable2=You will find out from it, whether the train has a stop at your station, how long it have been delayed, from which side it will arrive and where it should be sent.
+MultiplayerIntroduction_Dispatcher_MultipleStations=Remember that some stations, such as Sosnowiec Główny, have remote signal box controlled by us - in this case Sosnowiec R52. To check their schedule, switch the tab on the monitor.
+MultiplayerIntroduction_Dispatcher_NearbyTrains=Nearby trains can be observed in the field on the left along with the distance and name of the nearest semaphore. The beginning of the name means the abbreviation of the station, and then the unique symbol of a given semaphore.
+MultiplayerIntroduction_Dispatcher_Computer=You can use a computer or cube desktop to control the signalbox. Detailed instructions for using the desktops can be found under the "i" icon. Please familiarize yourself with it.
+MultiplayerIntroduction_Dispatcher_LineBlocks=Remember that you can encounter automatic and semi-automatic blockades connecting two stations.
+MultiplayerIntroduction_Dispatcher_AutomaticLB=In the automatic blockade, you do not have to ask for the consent of the neighboring station for the departure of the train, but only inform the neighboring Dispatcher about the departure of the train.
+MultiplayerIntroduction_Dispatcher_OthersLB=Otherwise, before the departure of the train, it is necessary to ask the neighboring station for permission to dispatch the train by using  telephone communication, and then using the desktop.
+MultiplayerIntroduction_GL=Good luck!
+DominoPanel_DNSwitch_DayLabel=Day
+DominoPanel_DNSwitch_NightLabel=Night

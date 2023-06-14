@@ -1,0 +1,122 @@
+"lang": {
+  "english": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Mission finished",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Finish your first mission.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "On time",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Do not arrive late or depart too early from any station in the timetable.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Night run",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Finish passenger mission at night.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Heavy hauler",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Finish freight mission."
+    }
+  },
+  "french": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Mission terminée",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Terminez votre première mission.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "A l'heure",
+      "NEW_ACHIEVEMENT_1_1_DESC": "N'arrivez pas en retard et ne partez pas trop tôt d'une gare figurant dans l'horaire.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Parcours de nuit",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Terminez la mission de transport de voyageurs de nuit.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Transport lourd",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Terminez la mission de fret."
+    }
+  },
+  "german": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Mission abgeschlossen",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Schließen Sie die erste Mission erfolgreich ab.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Pünktlich",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Zu frühes Abfahren von der Station, sowie das Fahren mit der Verspätung ist nicht erwünscht.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Nachtfahrt",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Beende die Mission mit Fahrgästen in der Nacht.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Schwergüterzug",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Beende die Güterzug Misson."
+    }
+  },
+  "italian": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Missione compiuta",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Completa la tua prima missione.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Puntuale",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Non arrivare in ritardo o partire in anticipo da nessuna stazione dell'orario.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Corsa notturna",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Completa una missione passeggeri notturna.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Carico pesante",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Completa una missione cargo."
+    }
+  },
+  "russian": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Миссия выполнена",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Завершите свою первую миссию.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Вовремя",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Придерживайтесь расписания: отправляйтесь со станции и прибывайте на них точно по расписанию.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Ночной рейс",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Завершите миссию с пассажирами ночью.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Тяжеловес",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Завершите миссию на грузовом составе."
+    }
+  },
+  "spanish": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Misión finalizada",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Finaliza tu primera misión.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "A tiempo",
+      "NEW_ACHIEVEMENT_1_1_DESC": "No llegues tarde ni salgas demasiado temprano de ninguna estación del horario.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Circulación nocturna",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Finaliza una misión de pasajeros por la noche.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Transportista pesado",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Finaliza una misión de mercancías."
+    }
+  },
+  "czech": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Jízda dokončena",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Dokonči svou první jízdu.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Jízda načas",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Do žádné stanice v jízdním řádu jsi nepřijel pozdě a ani jsi neodjížděl příliš brzy.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Noční jízda",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Dokonči noční jízdu.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Těžký nákladní vlak",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Dokonči jízdu s nákladním vlakem."
+    }
+  },
+  "polish": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Misja ukończona",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Ukończ swoją pierwszą misję.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Na czas",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Nie spóźnij się i nie odjedź za wcześnie z każdej stacji w rozkładzie jazdy.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Nocny kurs",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Ukończ misję pasażerską w nocy.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Ciężki ładunek",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Ukończ misję towarową."
+    }
+  },
+  "ukrainian": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Місія завершена",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Завершіть свою першу місію.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Вчасно",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Не запізнюйтесь і не відправляйтесь передчасно з будь-якої станції у розкладі.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Нічний рейс",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Завершіть пасажирську місію вночі.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Великоваговий",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Завершіть вантажну місію."
+    }
+  },
+  "hungarian": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "Küldetés teljesítve",
+      "NEW_ACHIEVEMENT_1_0_DESC": "Teljesítsd az első küldetésed.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "Pont időben",
+      "NEW_ACHIEVEMENT_1_1_DESC": "Ne érkezz be előbb vagy indulj el hamarabb bármelyik állomásra, illetve állomásról, mint ahogy azt a menetrend előírja.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "Éjszakai menet",
+      "NEW_ACHIEVEMENT_1_2_DESC": "Teljesíts egy személyszállító küldetést éjszaka.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "Nehéz vontató",
+      "NEW_ACHIEVEMENT_1_3_DESC": "Teljesíts egy teherszállító küldetést."
+    }
+  }
+}

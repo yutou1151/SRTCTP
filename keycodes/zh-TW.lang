@@ -1,0 +1,16 @@
+Escape=ESC
+Mouse0=鼠標左鍵
+Mouse1=鼠標右鍵
+Space=空格
+LeftShift=左Shift
+LeftAlt=左Alt
+LeftControl=左Ctrl
+RightShift=右Shift
+RightAlt=右Alt
+RightControl=右Ctrl
+CapsLock=大寫鎖定
+Return=回車
+Mouse3=鼠標4鍵(如果有)
+Mouse4=鼠標5鍵(如果有)
+Mouse2=鼠標中鍵
+None=未設置鍵位

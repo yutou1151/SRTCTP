@@ -1,0 +1,4 @@
+map_border_reached=Has llegado al límite del mapa. A partir de ahora, la IA conducirá el tren.
+train_derailed=¡El tren {0} ha descarrilado! Será eliminado.
+train_missrouted_remove=El tren {0} se eliminará porque se ha enviado en la dirección equivocada. El tren se encuentra en una estación que no figura en el horario.
+train_missrouted=El itinerario fijado desde la señal {0} enviaría al tren {1} en dirección equivocada. ¡El itinerario será eliminado!

@@ -1,0 +1,4 @@
+map_border_reached=Elérted a pálya határát, az AI átveszi az irányítást.
+train_derailed=A {0} számú vonat kisiklott, eltávolításra kerül.
+train_missrouted=A beállított vágányút a(z) {0} jelzőtől rossz irányba küldené a(z) {1} számú vonatot. A vágányút fel lesz oldva!
+train_missrouted_remove=A {0} számú vonat törölve lesz, mert rossz irányba küldték. A vonat olyan állomáson van, ami nincs a menetrendjében.

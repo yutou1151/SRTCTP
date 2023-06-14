@@ -1,0 +1,15 @@
+KatowiceWarszawa=Katowicw - Varsó
+KWKStaszicSedziszow=Katowice - Sędziszów
+LiniaKolejowaNr1=1-es számú vasútvonal
+LiniaKolejowaNr171=171-es számú vasútvonal
+LinieKolejoweNr4_171=1-es, 62-es és 171-es számú vasútvonalak
+Tutorial_scenario=Oktatóanyag
+DemoSceneryDescription=Oktatóküldetés indítása.
+DemoSceneryName=Demo helyszín
+LiniaKolejowaNr1Desc=Az 1-es számú vasútvonal <km>316</km> hosszú és Varsótól Katowicéig halad. A vonalon engedélyezett legnagyobb sebesség <kmph>160</kmph>.
+LiniaKolejowaNr171Desc=Az egyik legfőbb szállítási útvonala a szénnek Felső-Sziléziából, Lengyelország leginkább iparosodott részéből. A vonalon engedélyezett legnagyobb sebesség <kmph>30</kmph>-tól <kmph>120</kmph>-ig változik.
+Tutorial_scenario_desc=Ebben a küldetésben megtanulod vezetni a 34WE villamos motorvonatot Dąbrowa Górnicza Ząbkowice és Będzin között.
+day_scenario=Dąbrowa Górnicza Ząbkowice - Będzin
+day_scenario_desc=Vezesd a Ząbkowice és Będzin közötti vonatot még egyszer, egy másik napszakban (nem tartalmaz oktatást).
+cargo_scenario=KWK Staszic - Sosnowiec Dańdówka
+cargo_scenario_desc=Vezesd a 414018 számú tehervonatot KWK Staszic és Sosnowiec Dańdówka között.

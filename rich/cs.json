@@ -1,0 +1,7 @@
+{
+    "#status_menu": "V menu hry",
+    "#status_depot": "V depu kolejových vozidel",
+    "#status_mp_driving": "Online na %server%, řídí %vehicle%, další bod %next_point%",
+    "#status_mp_dispatching": "Online na %server%, dispečeruje v %station%",
+    "#status_sp_driving": "Řídí %vehicle%, další bod %next_point%"
+}

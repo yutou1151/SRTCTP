@@ -1,0 +1,4 @@
+train_derailed={0}次因脱轨删车.
+train_missrouted_remove={0}次因方向错误删车.
+map_border_reached=您已达到地图边界,接下来由AI接管.
+train_missrouted=在{0}设置的进路导致{1}次列车方向错误.进路已重置!

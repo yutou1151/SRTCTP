@@ -1,0 +1,22 @@
+#Sceneries
+DemoSceneryName=Demo scenery
+DemoSceneryDescription=Play tutorial mission.
+KatowiceWarszawa=Katowice - Warszawa
+KWKStaszicSedziszow=Katowice - Sędziszów
+LiniaKolejowaNr1=Railway line no. 1
+LiniaKolejowaNr171=Railway line no. 171
+LinieKolejoweNr4_171=Railway lines no. 1, 62, 171
+LiniaKolejowaNr1Desc=Railway line 1 is a <km>316</km> long line running from Warsaw to Katowice. Maximum speed on this line is <kmph>160</kmph>.
+LiniaKolejowaNr171Desc=One of the main coal export lines from Upper Silesia - the most industrialized part of Poland. The maximum speed on the routes varies from <kmph>30</kmph> to <kmph>120</kmph>.
+
+#Scenarios
+Tutorial_scenario=Tutorial
+Tutorial_scenario_desc=In this mission you will learn control of 34WE EMU, driving it on route Dąbrowa Górnicza Ząbkowice - Będzin.
+
+#Scenarios
+day_scenario=Dąbrowa Górnicza Ząbkowice - Będzin
+day_scenario_desc=Drive on route Ząbkowice - Będzin once again, on different time of day (does not contain tutorial).
+
+#Scenarios
+cargo_scenario=KWK Staszic - Sosnowiec Dańdówka
+cargo_scenario_desc=Drive cargo train 414018 on route KWK Staszic - Sosnowiec Dańdówka.

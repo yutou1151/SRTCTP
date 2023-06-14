@@ -1,0 +1,15 @@
+DemoSceneryName=Scenario Demo
+DemoSceneryDescription=Inizia lo scenario di esercitazione.
+KatowiceWarszawa=Katowice - Varsavia
+KWKStaszicSedziszow=Katowice - Sedziszow
+LiniaKolejowaNr1=Linea ferroviaria n. 1
+LiniaKolejowaNr171=Linea ferroviaria n. 171
+LinieKolejoweNr4_171=Linee ferroviarie n. 1, 62, 171
+LiniaKolejowaNr1Desc=La linea ferroviaria n. 1 è lunga <km>316</km>, e va da Varsavia a Katowice. La velocità massima su questa linea è <kmph>160</kmph>.
+LiniaKolejowaNr171Desc=Una delle principali linee di esportazione di carbone da Slesia Alta - la parte più industrializzata della Polonia. La velocità massima sui percorsi varia da <kmph>30</kmph> a <kmph>120</kmph>.
+Tutorial_scenario=Tutorial
+Tutorial_scenario_desc=In questo scenario imparerai a condurre il 34WE, comunemente noto come "Elf", guidandolo dalla stazione di Dąbrowa Górnicza Ząbkowice fino a Będzin.
+day_scenario=Dabrowa Gornicza Zabkowice - Bedzin
+day_scenario_desc=Guida sul percorso Ząbkowice - Będzin di nuovo, in diversi momenti della giornata (non contiene tutorial).
+cargo_scenario=KWK Staszic - Sosnowiec Dandowka
+cargo_scenario_desc=Conduci il treno merci 414018 sulla tratta KWK Staszic - Sosnowiec Dańdówka.

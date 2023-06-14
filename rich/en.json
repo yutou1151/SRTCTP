@@ -1,0 +1,7 @@
+{
+    "#status_sp_driving": "Driving %vehicle%, next point %next_point%",
+    "#status_mp_driving": "Online on %server%, driving %vehicle%, next point %next_point%",
+    "#status_mp_dispatching": "Online on %server%, dispatching %station%",
+    "#status_menu": "In main menu",
+    "#status_depot": "In locomotive depot"
+}

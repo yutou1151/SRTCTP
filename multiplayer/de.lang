@@ -1,0 +1,4 @@
+map_border_reached=Das Ende der Karte wurde erreicht, somit übernimmt der Computer das Fahren des Zuges.
+train_derailed=Zug {0} ist entgleist und wird damit entfernt.
+train_missrouted=Das Stellen der Fahrstraße von Signal {0} würde den Zug {1} in die falsche Richtung leiten. Die Fahrstraße wird aufgelöst!
+train_missrouted_remove=Zug {0} wird gelöscht, da er in die falsche Richtung gesendet wurde. Der Zug ist aktuell in einem Bahnhof, welcher nicht im Fahrplan vorhanden ist.

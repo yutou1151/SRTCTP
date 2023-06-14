@@ -1,0 +1,7 @@
+{
+    "#status_mp_dispatching": "正在服务器%server%联机,在%station%调度",
+    "#status_menu": "正在主菜单",
+    "#status_depot": "正在机务段",
+    "#status_sp_driving": "正在驾驶%vehicle%, 下一站为 %next_point%",
+    "#status_mp_driving": "正在服务器%server%联机,驾驶%vehicle%,下一站%next_point%"
+}

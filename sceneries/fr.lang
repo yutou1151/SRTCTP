@@ -1,0 +1,15 @@
+DemoSceneryName=Environnement de démonstration
+DemoSceneryDescription=Démarrer le tutoriel.
+LiniaKolejowaNr1=Ligne de chemin de fer n° 1
+LiniaKolejowaNr171=Ligne de chemin de fer n° 171
+LiniaKolejowaNr1Desc=La ligne de chemin de fer n°1 est une ligne longue de <km>316</km> allant de Varsovie à Katowice. La vitesse maximale sur cette ligne est de <kmph>160</kmph>.
+Tutorial_scenario=Tutoriel
+Tutorial_scenario_desc=Dans cette mission, vous apprendrez à contrôler le 34WE, communément appelé "Elf", en le conduisant entre les gares de Dąbrowa Górnicza Ząbkowice et de Będzin.
+day_scenario=Dąbrowa Górnicza Ząbkowice - Będzin
+cargo_scenario=KWK Staszic - Sosnowiec Dańdówka
+cargo_scenario_desc=Conduisez le train de marchandises 414018 sur la ligne Katowice Muchowiec Staszic - Sosnowiec Dańdówka.
+KatowiceWarszawa=Katowice - Warszawa
+KWKStaszicSedziszow=Katowice - Sędziszów
+LinieKolejoweNr4_171=Lignes de chemins de fer n° 1, 62, 171
+day_scenario_desc=Conduisez une nouvelle fois le train de voyageurs entre Dąbrowa Górnicza Ząbkowice et Będzin, à un autre moment de la journée (Sans tutoriel).
+LiniaKolejowaNr171Desc=L'une des principales lignes d'exportation de charbon de Haute-Silésie - la partie la plus industrialisée de la Pologne. La vitesse maximale sur cette ligne varie de <kmph>30</kmph> à <kmph>120</kmph>.

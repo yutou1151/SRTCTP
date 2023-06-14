@@ -1,0 +1,7 @@
+{
+    "#status_menu": "A főmenüben",
+    "#status_depot": "A járműtelepen",
+    "#status_sp_driving": "Vezeti a %vehicle%-t, következő pont %next_point%",
+    "#status_mp_driving": "Online a %server%-en, vezeti a %vehicle%-t, következő pont %next_point%",
+    "#status_mp_dispatching": "Online a %server%-en, irányítja: %station%"
+}

@@ -1,0 +1,4 @@
+map_border_reached=Dojechałeś do granicy mapy. Dalej pociąg poprowadzi bot.
+train_derailed=Pociąg {0} wykoleił się! Pociąg zostanie usunięty.
+train_missrouted=Nastawiony przebieg z semafora {0} wysłałby pociąg {1} w złym kierunku. Rozwiązywanie przebiegu!
+train_missrouted_remove=Pociąg {0} zostanie usunięty ze względu na niepoprawne wyprawienie pociągu. Pociąg znajduje się na stacji, której nie ma w rozkładzie jazdy.

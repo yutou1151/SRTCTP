@@ -1,0 +1,4 @@
+map_border_reached=You have reached the border of the map. Further, the bot will drive the train.
+train_derailed=Train {0} has derailed! It will be removed.
+train_missrouted=The set route from signal {0} would send train {1} in the wrong direction. Route will be released!
+train_missrouted_remove=Train {0} will be deleted because it was sent in the wrong direction. The train is at a station that is not in the timetable.
