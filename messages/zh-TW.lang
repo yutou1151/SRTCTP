@@ -39,3 +39,4 @@ Train_Denial_I_Have_Permission_With_Track=由於有列車發車，無法於{1}�
 Train_Denial_I_Have_To_Ask_Further_With_Track=由於需向下一站請求許可，無法於{1}股接{0}次列車。
 Train_Denial_Unknown_Line=由於無此股道，無法接{0}次列車。
 Train_Denial_Unknown_Line_With_Track=由於無此股道，無法於{1}股接{0}次列車。
+Currently=目前
