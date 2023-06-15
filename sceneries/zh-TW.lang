@@ -1,4 +1,4 @@
-DemoSceneryName=演示任務
+DemoSceneryName=教學任務
 DemoSceneryDescription=遊玩教程任務.
 KatowiceWarszawa=卡托維茲-華沙
 KWKStaszicSedziszow=卡托維茲-森濟舒夫
@@ -6,9 +6,9 @@ LiniaKolejowaNr1=PKP PLK 1號線
 LiniaKolejowaNr171=PKP PLK 171號線
 LinieKolejoweNr4_171=PKP PLK 1/62/171號線
 LiniaKolejowaNr1Desc=PKP PLK 1號線由華沙開往卡托維茲,全長 <km>316</km>,最高運行速度<kmph>160</kmph>.
-LiniaKolejowaNr171Desc=從波蘭重要工業區--上西裏西亞出發的重要煤炭出口幹線,限速從<kmph>30</kmph> 到 <kmph>120</kmph>不等.
+LiniaKolejowaNr171Desc=從波蘭重要工業區--上西里西亞出發的重要煤炭出口幹線,限速從<kmph>30</kmph> 到 <kmph>120</kmph>不等.
 Tutorial_scenario=教程
-Tutorial_scenario_desc=您將駕駛34WE動車組,從東布羅瓦-古爾尼察 宗布科維茨出發,前往本津.
+Tutorial_scenario_desc=您將駕駛34WE電聯車,從東布羅瓦-古爾尼察 宗布科維茨出發,前往本津.
 day_scenario=東布羅瓦-古爾尼察 宗布科維茨-本津
 day_scenario_desc=您將在不同的時刻下,再次體驗宗布科維茨-本津的旅程(不含教程).
 cargo_scenario=斯塔希茨煤礦-索斯諾維茨 丹杜夫卡
