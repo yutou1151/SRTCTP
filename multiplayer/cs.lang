@@ -1,4 +1,0 @@
-map_border_reached=Dorazili jste k hranici mapy. Dále bude vlak řídit umělá inteligence.
-train_derailed=Vlak {0} vykolejil! Dojde k odstranění.
-train_missrouted=Postavená cesta od návěstidla {0} by poslala vlak {1} špatným směrem. Trasa bude uvolněna!
-train_missrouted_remove=Vlak {0} bude smazán, protože byl vypraven nesprávným směrem. Vlak se nachází ve stanici, která není uvedena v jízdním řádu.

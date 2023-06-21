@@ -1,7 +1,0 @@
-{
-    "#status_sp_driving": "Conducir %vehicle%, siguiente punto %next_point%",
-    "#status_mp_driving": "En línea %server%, conducir %vehicle%, siguiente punto %next_point%",
-    "#status_mp_dispatching": "En línea %server%, controlador %station%",
-    "#status_menu": "En el menú principal",
-    "#status_depot": "En la cochera"
-}
